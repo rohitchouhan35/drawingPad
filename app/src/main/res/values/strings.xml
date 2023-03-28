@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">drawingPad</string>
+    <string name="ignore_content">ignoreContentDescription</string>
+</resources>
